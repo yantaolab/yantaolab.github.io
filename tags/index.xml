@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | HCIC Lab</title>
-    <link>https://crossstyle.github.io/tags/</link>
-      <atom:link href="https://crossstyle.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://yantaolab.github.io/tags/</link>
+      <atom:link href="https://yantaolab.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://crossstyle.github.io/media/icon_hu7fe71f12526415607f4ef93e8e327f4f_48376_512x512_fill_lanczos_center_3.png</url>
+      <url>https://yantaolab.github.io/media/icon_hu7fe71f12526415607f4ef93e8e327f4f_48376_512x512_fill_lanczos_center_3.png</url>
       <title>Tags</title>
-      <link>https://crossstyle.github.io/tags/</link>
+      <link>https://yantaolab.github.io/tags/</link>
     </image>
     
   </channel>

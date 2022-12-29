@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | HCIC Lab</title>
+    <link>https://yantaolab.github.io/publication-type/1/</link>
+      <atom:link href="https://yantaolab.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 29 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yantaolab.github.io/media/icon_hu7fe71f12526415607f4ef93e8e327f4f_48376_512x512_fill_lanczos_center_3.png</url>
+      <title>1</title>
+      <link>https://yantaolab.github.io/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Estimating Construction Workers&#39; Physical Workload by Fusing Computer Vision and Smart Insole Technologies</title>
+      <link>https://yantaolab.github.io/publication/yantao2018isarc/</link>
+      <pubDate>Sun, 29 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://yantaolab.github.io/publication/yantao2018isarc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

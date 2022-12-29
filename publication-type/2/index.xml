@@ -5,7 +5,7 @@
     <link>https://yantaolab.github.io/publication-type/2/</link>
       <atom:link href="https://yantaolab.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 29 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yantaolab.github.io/media/icon_hu7fe71f12526415607f4ef93e8e327f4f_48376_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
@@ -13,10 +13,154 @@
     </image>
     
     <item>
+      <title>Automated Selection and Localization of Mobile Cranes in Construction Planning</title>
+      <link>https://yantaolab.github.io/publication/hongling20220429buildings/</link>
+      <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://yantaolab.github.io/publication/hongling20220429buildings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heart rate variability based physical exertion monitoring for manual material handling tasks</title>
+      <link>https://yantaolab.github.io/publication/waleed20220426ergon/</link>
+      <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://yantaolab.github.io/publication/waleed20220426ergon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying the Effect of Mental Stress on Physical Stress for Construction Tasks</title>
+      <link>https://yantaolab.github.io/publication/waleed20220301asceco/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://yantaolab.github.io/publication/waleed20220301asceco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Three-Dimensional Working Pose Estimation in Industrial Scenarios With Monocular Camera</title>
+      <link>https://yantaolab.github.io/publication/yantao20210201jiot/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://yantaolab.github.io/publication/yantao20210201jiot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Posture-related data collection methods for construction workers: A review</title>
+      <link>https://yantaolab.github.io/publication/yantao20210122autcon/</link>
+      <pubDate>Fri, 22 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://yantaolab.github.io/publication/yantao20210122autcon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Construction Activity Recognition and Ergonomic Risk Assessment Using a Wearable Insole Pressure System</title>
+      <link>https://yantaolab.github.io/publication/maxwell20200701asceco/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://yantaolab.github.io/publication/maxwell20200701asceco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint-Level Vision-Based Ergonomic Assessment Tool for Construction Workers</title>
+      <link>https://yantaolab.github.io/publication/yantao20190505asceco/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://yantaolab.github.io/publication/yantao20190505asceco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Biomechanical Workload Estimation for Construction Workers by Computer Vision and Smart Insoles</title>
+      <link>https://yantaolab.github.io/publication/yantao20190503ascecp/</link>
+      <pubDate>Fri, 03 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://yantaolab.github.io/publication/yantao20190503ascecp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>An automatic and non-invasive physical fatigue assessment method for construction workers</title>
-      <link>https://yantaolab.github.io/publication/yantao20190312aic/</link>
+      <link>https://yantaolab.github.io/publication/yantao20190312autcon/</link>
       <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://yantaolab.github.io/publication/yantao20190312aic/</guid>
+      <guid>https://yantaolab.github.io/publication/yantao20190312autcon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wearable insole pressure system for automated detection and classification of awkward working postures in construction workers</title>
+      <link>https://yantaolab.github.io/publication/maxwell20181016autcon/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://yantaolab.github.io/publication/maxwell20181016autcon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Capturing and Understanding Workers’ Activities in Far-Field Surveillance Videos with Deep Action Recognition and Bayesian Nonparametric Learning</title>
+      <link>https://yantaolab.github.io/publication/xiaocun20181008mice/</link>
+      <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://yantaolab.github.io/publication/xiaocun20181008mice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying the physical intensity of construction workers, a mechanical energy approach</title>
+      <link>https://yantaolab.github.io/publication/liulin20180831aei/</link>
+      <pubDate>Fri, 31 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://yantaolab.github.io/publication/liulin20180831aei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Pixel-Level Crack Detection and Measurement Using Fully Convolutional Network</title>
+      <link>https://yantaolab.github.io/publication/xincong20180829mice/</link>
+      <pubDate>Wed, 29 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://yantaolab.github.io/publication/xincong20180829mice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards efficient and objective work sampling: Recognizing workers&#39; activities in site surveillance videos with two-stream convolutional networks</title>
+      <link>https://yantaolab.github.io/publication/xiaocun20180725autcon/</link>
+      <pubDate>Wed, 25 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://yantaolab.github.io/publication/xiaocun20180725autcon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image-and-Skeleton-Based Parameterized Approach to Real-Time Identification of Construction Workers’ Unsafe Behaviors</title>
+      <link>https://yantaolab.github.io/publication/hongling20180606asceco/</link>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://yantaolab.github.io/publication/hongling20180606asceco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A deep learning-based method for detecting non-certified work on construction sites</title>
+      <link>https://yantaolab.github.io/publication/fang20180228aei/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://yantaolab.github.io/publication/fang20180228aei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An experimental study of real-time identification of construction workers&#39; unsafe behaviors</title>
+      <link>https://yantaolab.github.io/publication/yantao20170808autcon/</link>
+      <pubDate>Tue, 08 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://yantaolab.github.io/publication/yantao20170808autcon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The availability of wearable-device-based physical data for the measurement of construction workers&#39; psychological status on site: From the perspective of safety management</title>
+      <link>https://yantaolab.github.io/publication/hongling20170612autcon/</link>
+      <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://yantaolab.github.io/publication/hongling20170612autcon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Visualization technology-based construction safety management: A review </title>
+      <link>https://yantaolab.github.io/publication/hongling20161129autcon/</link>
+      <pubDate>Tue, 29 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://yantaolab.github.io/publication/hongling20161129autcon/</guid>
       <description></description>
     </item>
     

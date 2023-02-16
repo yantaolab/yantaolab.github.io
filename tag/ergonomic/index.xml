@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Deep learning | HCIC Lab</title>
-    <link>https://yantaolab.github.io/tag/deep-learning/</link>
-      <atom:link href="https://yantaolab.github.io/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
-    <description>Deep learning</description>
+    <title>Ergonomic | HCIC Lab</title>
+    <link>https://yantaolab.github.io/tag/ergonomic/</link>
+      <atom:link href="https://yantaolab.github.io/tag/ergonomic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ergonomic</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yantaolab.github.io/media/logo_hu7225832d305736d33d1ee86989ca8ec6_178698_300x300_fit_lanczos_3.png</url>
-      <title>Deep learning</title>
-      <link>https://yantaolab.github.io/tag/deep-learning/</link>
+      <title>Ergonomic</title>
+      <link>https://yantaolab.github.io/tag/ergonomic/</link>
     </image>
     
     <item>
@@ -18,15 +18,6 @@
       <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://yantaolab.github.io/project/fatigue/</guid>
       <description>&lt;p&gt;The construction industry around the globe has unsatisfactory occupational health and safety records. One of the major reasons is attributed to high physical demands and hostile working environments. Construction work always requires workers to work for a long duration without sufficient breaks to recover from overexertion and to work under harsh climatic conditions and/or in confined workspaces. Such circumstances can increase the risk of physical fatigue. Traditionally, fatigue monitoring in the construction domain relies on self-reporting or subjective questionnaires. These methods require the manual collection of responses and are impractical for continuous fatigue monitoring. Some researchers have used on-body sensors for fatigue monitoring (such as heart rate monitors and surface electromyography (sEMG) sensors). Although these devices appear to be promising, they are intrusive, requiring sensors to be attached to the worker&amp;rsquo;s body. Such on-body sensors are uncomfortable to wear and could easily cause irritation. Considering the limitations of these methodologies, the current research proposes a novel non-intrusive method to monitor the whole-body physical fatigue with computer vision for construction workers. A computer vision-based 3D motion capture algorithm was developed to model the motion of various body parts using an RGB camera. A fatigue assessment model was developed using the 3D model data from the developed motion capture algorithm and biomechanical analysis. The experiment showed that the proposed physical fatigue assessment method could provide joint-level physical fatigue assessments automatically. Then, a series of experiments demonstrated the potential of the method in assessing the physical fatigue level of different construction task conditions such as site layout and the work-rest schedules.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Vision-based low-light construction workers&#39; pose analysis</title>
-      <link>https://yantaolab.github.io/project/lowlight/</link>
-      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://yantaolab.github.io/project/lowlight/</guid>
-      <description>&lt;p&gt;Construction in the low-light environment is widely conducted in many construction projects, such as nighttime road construction and tunnel construction. Workers are also exposed to higher risks at low light due to dazzling lights and fatigable low-light environments. Estimating human pose can help assess workload and reduce the risk of fatigue and injury in low light. However, the existing method cannot accurately identify the Workers&amp;rsquo; pose in the low light environment. As a result, this paper proposes an Unsupervised Illumination Reflectance Estimation Network (UIRE-Net) framework for estimating Workers&amp;rsquo; poses in low light. The image restoration method is based on the Retinex theory, in which objects&amp;rsquo; true color is determined solely by illumination reflectance. To begin, the Retinex method recovers the information from low-light images. The Workers&amp;rsquo; pose estimation module is then used to track the worker&amp;rsquo;s pose. The proposed method&amp;rsquo;s pose estimation performance is evaluated using 200 low-light construction images and over 1000 Workers&amp;rsquo; pose estimation experiments. The results show that UIRE-Net has a recognition rate of 77.9%. In the low-light construction scenario, the proposed method outperforms the baseline method by 17.8%. To improve productivity and safety performance, UIRE-Net can estimate Workers&amp;rsquo; pose in low light and assist in completing automatic monitoring tasks in low-light construction.&lt;/p&gt;
 </description>
     </item>
     

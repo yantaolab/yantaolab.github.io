@@ -52,6 +52,15 @@
     </item>
     
     <item>
+      <title>Recovering Building Information Model from 2D Drawings for Mechanical, Electrical and Plumbing Systems of Ageing Buildings</title>
+      <link>https://yantaolab.github.io/project/mep2bim/</link>
+      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://yantaolab.github.io/project/mep2bim/</guid>
+      <description>&lt;p&gt;Ageing buildings have become a significant concern for many cities, exacerbated by inadequate management and maintenance of Mechanical, Electrical, and Plumbing (MEP) systems, and Building Information Modelling (BIM) enables efficient MEP Operation and Maintenance (O&amp;amp;M) through the digital representation of system information; however, many ageing buildings were constructed without BIM, and manual reconstruction is costly and inefficient due to the sheer number of such structures. Although some studies have proposed methods for automatically recovering BIM from 2D drawings, few are suitable for MEP systems due to the multiscale and irregular shapes of MEP components. To fill this gap, an automatic approach is proposed for recovering MEP BIM from 2D drawings with three modules: 1) semantic extraction by combining image cropping with Cascade Mask R-CNN to detect and segment multiscale, irregular MEP components; 2) geometric extraction by semantic-assisted image processing to extract contours and skeletons of irregular parts; and 3) Industry Foundation Class (IFC)-based BIM reconstruction via the open-source pythonOCC and IfcOpenShell. The performance was tested on two MEP systems with 335 and 282 multiscale and irregular elements, and the results show that the method recovered BIMs for the two MEP systems in 2.85 seconds and 0.79 seconds, with semantic extraction accuracy exceeding 0.9 and geometric error below 5%. This paper contributes to the existing body of knowledge by providing a semantic and geometric-based approach for recovering multiscale and irregular components from 2D drawings. Future studies could further improve the approach by integrating elevation drawings, reconstructing abstract symbols, and aligning text-geometry.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Vision-based low-light construction workers&#39; pose analysis</title>
       <link>https://yantaolab.github.io/project/lowlight/</link>
       <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>

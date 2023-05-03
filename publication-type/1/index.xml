@@ -5,12 +5,28 @@
     <link>https://yantaolab.github.io/publication-type/1/</link>
       <atom:link href="https://yantaolab.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 29 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 12 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yantaolab.github.io/media/logo_hu7225832d305736d33d1ee86989ca8ec6_178698_300x300_fit_lanczos_3.png</url>
       <title>1</title>
       <link>https://yantaolab.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Image Illumination Enhancement for Construction Worker Pose Estimation in Low-light Conditions</title>
+      <link>https://yantaolab.github.io/publication/xinyu20230212eccv/</link>
+      <pubDate>Sun, 12 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://yantaolab.github.io/publication/xinyu20230212eccv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated activity recognition of construction workers using single in-pocket smartphone and machine learning methods</title>
+      <link>https://yantaolab.github.io/publication/guohao20220629iop/</link>
+      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://yantaolab.github.io/publication/guohao20220629iop/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Estimating Construction Workers&#39; Physical Workload by Fusing Computer Vision and Smart Insole Technologies</title>

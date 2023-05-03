@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NSFC-RGC 2023 | HCIC Lab</title>
+    <link>https://yantaolab.github.io/category/nsfc-rgc-2023/</link>
+      <atom:link href="https://yantaolab.github.io/category/nsfc-rgc-2023/index.xml" rel="self" type="application/rss+xml" />
+    <description>NSFC-RGC 2023</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yantaolab.github.io/media/logo_hu7225832d305736d33d1ee86989ca8ec6_178698_300x300_fit_lanczos_3.png</url>
+      <title>NSFC-RGC 2023</title>
+      <link>https://yantaolab.github.io/category/nsfc-rgc-2023/</link>
+    </image>
+    
+    <item>
+      <title>Our team received Best Paper - The Honorable mention award in NSFC-RGC 2023.</title>
+      <link>https://yantaolab.github.io/post/nsfc-rgc2023/</link>
+      <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://yantaolab.github.io/post/nsfc-rgc2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

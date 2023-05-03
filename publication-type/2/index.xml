@@ -5,12 +5,20 @@
     <link>https://yantaolab.github.io/publication-type/2/</link>
       <atom:link href="https://yantaolab.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 29 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 19 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yantaolab.github.io/media/logo_hu7225832d305736d33d1ee86989ca8ec6_178698_300x300_fit_lanczos_3.png</url>
       <title>2</title>
       <link>https://yantaolab.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Machine learning-based identification and classification of physical fatigue levels: A novel method based on a wearable insole device</title>
+      <link>https://yantaolab.github.io/publication/maxwell20221219ijoie/</link>
+      <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://yantaolab.github.io/publication/maxwell20221219ijoie/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Automated Selection and Localization of Mobile Cranes in Construction Planning</title>

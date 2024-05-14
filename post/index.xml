@@ -5,12 +5,21 @@
     <link>https://yantaolab.github.io/post/</link>
       <atom:link href="https://yantaolab.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yantaolab.github.io/media/logo_hu7225832d305736d33d1ee86989ca8ec6_178698_300x300_fit_lanczos_3.png</url>
       <title>Posts</title>
       <link>https://yantaolab.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>New publication to AiC! Learning multi-granular worker intentions from incomplete visual observations for worker-robot collaboration in construction</title>
+      <link>https://yantaolab.github.io/post/11_2023_zaolin_aic/</link>
+      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://yantaolab.github.io/post/11_2023_zaolin_aic/</guid>
+      <description>&lt;p&gt;Recognizing a worker&amp;rsquo;s intentions is an important prerequisite to enable smooth human-robot collaboration in construction. However, the highly dynamic construction workplace and long-horizon construction tasks prevent robots from obtaining long-term observations, which is detrimental to information accumulation and intention disambiguation. We present (1) a data and knowledge fusion strategy that combines visual contextual information and task knowledge to reduce the information loss caused by incomplete observations, and (2) a multi-granularity worker intent recognition model to explore the optimal granularity by comparing the intent modeling capabilities of different granularities. Results show that the proposed method can recognize multi-granular worker intentions with macro-F1 scores higher than 0.85, and that the intermediate activity is the best-suited granularity as it strikes a good balance between intention recognition accuracy and intention modeling capability. For more details, please read our paper: &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0926580523004442&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.sciencedirect.com/science/article/pii/S0926580523004442&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Our paper &#34;Recovering Building Information Model from 2D Drawings for Mechanical, Electrical and Plumbing Systems of Ageing Buildings&#34; has been accepted by Automation in Construction!</title>

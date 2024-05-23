@@ -5,12 +5,116 @@
     <link>https://yantaolab.github.io/publication/</link>
       <atom:link href="https://yantaolab.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 12 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yantaolab.github.io/media/logo_hu7225832d305736d33d1ee86989ca8ec6_178698_300x300_fit_lanczos_3.png</url>
       <title>Publications</title>
       <link>https://yantaolab.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Estimation of load-carrying capacity of cracked RC beams using 3D digital twin model integrated with point clouds and images</title>
+      <link>https://yantaolab.github.io/publication/congguang20240503es/</link>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://yantaolab.github.io/publication/congguang20240503es/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fatigue in construction workers: A systematic review of causes, evaluation methods, and interventions</title>
+      <link>https://yantaolab.github.io/publication/haiyi20230410safety/</link>
+      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://yantaolab.github.io/publication/haiyi20230410safety/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SLAM localization in uneven low-light construction sites</title>
+      <link>https://yantaolab.github.io/publication/xinyu20240403aic/</link>
+      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://yantaolab.github.io/publication/xinyu20240403aic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design information-assisted graph neural network for modeling central air conditioning systems</title>
+      <link>https://yantaolab.github.io/publication/ao20240131aei/</link>
+      <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://yantaolab.github.io/publication/ao20240131aei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring Labor Input: Construction Activity Counting Using IMU on Hand Tools</title>
+      <link>https://yantaolab.github.io/publication/xincong202031122sensor/</link>
+      <pubDate>Wed, 22 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://yantaolab.github.io/publication/xincong202031122sensor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning multi-granular worker intentions from incomplete visual observations for worker-robot collaboration in construction</title>
+      <link>https://yantaolab.github.io/publication/zaolin20231102aic/</link>
+      <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://yantaolab.github.io/publication/zaolin20231102aic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HLE-SLAM: SLAM for overexposed construction environment</title>
+      <link>https://yantaolab.github.io/publication/xinyu20230707isarc/</link>
+      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://yantaolab.github.io/publication/xinyu20230707isarc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-light Image Enhancement for Construction Robot Simultaneous Localization and Mapping</title>
+      <link>https://yantaolab.github.io/publication/xinyu20230706isarc/</link>
+      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://yantaolab.github.io/publication/xinyu20230706isarc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Multi-Granularity Task Primitives from Construction Videos for Human-Robot Collaboration</title>
+      <link>https://yantaolab.github.io/publication/zaolin20230429i3ce/</link>
+      <pubDate>Sun, 25 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://yantaolab.github.io/publication/zaolin20230429i3ce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards automated physical fatigue monitoring and prediction among construction workers using physiological signals: An on-site study</title>
+      <link>https://yantaolab.github.io/publication/waleed20230607safety/</link>
+      <pubDate>Wed, 07 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://yantaolab.github.io/publication/waleed20230607safety/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recovering building information model from 2D drawings for mechanical, electrical and plumbing systems of ageing buildings</title>
+      <link>https://yantaolab.github.io/publication/zaolin20230513aic/</link>
+      <pubDate>Sat, 13 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://yantaolab.github.io/publication/zaolin20230513aic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification and Classification of Physical Fatigue in Construction Workers Using Linear and Nonlinear Heart Rate Variability Measurements</title>
+      <link>https://yantaolab.github.io/publication/shahnawaz20230512asceco/</link>
+      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://yantaolab.github.io/publication/shahnawaz20230512asceco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer vision–based management of construction workers unsafe behaviour</title>
+      <link>https://yantaolab.github.io/publication/hongling20230228buildings/</link>
+      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://yantaolab.github.io/publication/hongling20230228buildings/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Image Illumination Enhancement for Construction Worker Pose Estimation in Low-light Conditions</title>

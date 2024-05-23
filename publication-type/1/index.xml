@@ -5,12 +5,36 @@
     <link>https://yantaolab.github.io/publication-type/1/</link>
       <atom:link href="https://yantaolab.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 12 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yantaolab.github.io/media/logo_hu7225832d305736d33d1ee86989ca8ec6_178698_300x300_fit_lanczos_3.png</url>
       <title>1</title>
       <link>https://yantaolab.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>HLE-SLAM: SLAM for overexposed construction environment</title>
+      <link>https://yantaolab.github.io/publication/xinyu20230707isarc/</link>
+      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://yantaolab.github.io/publication/xinyu20230707isarc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-light Image Enhancement for Construction Robot Simultaneous Localization and Mapping</title>
+      <link>https://yantaolab.github.io/publication/xinyu20230706isarc/</link>
+      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://yantaolab.github.io/publication/xinyu20230706isarc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Multi-Granularity Task Primitives from Construction Videos for Human-Robot Collaboration</title>
+      <link>https://yantaolab.github.io/publication/zaolin20230429i3ce/</link>
+      <pubDate>Sun, 25 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://yantaolab.github.io/publication/zaolin20230429i3ce/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Image Illumination Enhancement for Construction Worker Pose Estimation in Low-light Conditions</title>

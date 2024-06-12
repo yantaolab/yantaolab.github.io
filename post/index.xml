@@ -5,12 +5,20 @@
     <link>https://yantaolab.github.io/post/</link>
       <atom:link href="https://yantaolab.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 12 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yantaolab.github.io/media/logo_hu7225832d305736d33d1ee86989ca8ec6_178698_300x300_fit_lanczos_3.png</url>
       <title>Posts</title>
       <link>https://yantaolab.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Our team won the Second Prize (Mathematics and Physics / Mechanical and Control Systems Category) in the 10th Hong Kong University Student Innovation and Entrepreneurship Competition.</title>
+      <link>https://yantaolab.github.io/post/hkchallenge2024/</link>
+      <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://yantaolab.github.io/post/hkchallenge2024/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>New publication to AiC! An unsupervised low-light image enhancement method for improving V-SLAM localization in uneven low-light construction sites</title>

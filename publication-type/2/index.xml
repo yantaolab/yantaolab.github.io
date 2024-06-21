@@ -5,12 +5,20 @@
     <link>https://yantaolab.github.io/publication-type/2/</link>
       <atom:link href="https://yantaolab.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yantaolab.github.io/media/logo_hu7225832d305736d33d1ee86989ca8ec6_178698_300x300_fit_lanczos_3.png</url>
       <title>2</title>
       <link>https://yantaolab.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Data-driven ergonomic assessment of construction workers</title>
+      <link>https://yantaolab.github.io/publication/zirui20240621aic/</link>
+      <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://yantaolab.github.io/publication/zirui20240621aic/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Estimation of load-carrying capacity of cracked RC beams using 3D digital twin model integrated with point clouds and images</title>

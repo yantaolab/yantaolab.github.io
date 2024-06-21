@@ -5,12 +5,21 @@
     <link>https://yantaolab.github.io/category/aic/</link>
       <atom:link href="https://yantaolab.github.io/category/aic/index.xml" rel="self" type="application/rss+xml" />
     <description>AiC</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yantaolab.github.io/media/logo_hu7225832d305736d33d1ee86989ca8ec6_178698_300x300_fit_lanczos_3.png</url>
       <title>AiC</title>
       <link>https://yantaolab.github.io/category/aic/</link>
     </image>
+    
+    <item>
+      <title>New publication to AiC! A data-driven ergonomic assessment method that enhances accuracy and sensitivity in evaluating diversified construction activities</title>
+      <link>https://yantaolab.github.io/post/06_2024_zirui_aic/</link>
+      <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://yantaolab.github.io/post/06_2024_zirui_aic/</guid>
+      <description>&lt;p&gt;Automating ergonomic assessment improves both objectivity and cost-effectiveness. However, existing ergonomic scales remain susceptible to inaccuracy and insensitivity when assessing diversified construction activities. This susceptibility stems from the unreliable ranges, sharp boundaries, and oversimplified binary rules within conventional joint-level assessment rules, coupled with the restricted transformation rules to integer input/output. This paper presents a data-driven ergonomic assessment method grounded in statistical data from Construction Motion Data Library (CML) dataset, comprising: 1 Developing joint-level scoring models to primarily improve accuracy through leveraging Heuristics Gaussian Cloud Transformation (H-GCT), and 2 Designing fuzzy inference mechanism to enhance sensitivity through retaining risk information during transformation across levels. Subsequently, a three-step validation confirms accurate risk identification, sensitive risk feedback, and positive correlation with previous methods, contributing to occupational health and safety management. Future research could enhance the method by expanding the pose dataset, recruiting more participants, and refining the 3D pose estimation.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>New publication to AiC! An unsupervised low-light image enhancement method for improving V-SLAM localization in uneven low-light construction sites</title>

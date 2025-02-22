@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Low light enhancement | HCIC Lab</title>
-    <link>https://yantaolab.github.io/tag/low-light-enhancement/</link>
-      <atom:link href="https://yantaolab.github.io/tag/low-light-enhancement/index.xml" rel="self" type="application/rss+xml" />
-    <description>Low light enhancement</description>
+    <title>SLAM | HCIC Lab</title>
+    <link>https://yantaolab.github.io/tag/slam/</link>
+      <atom:link href="https://yantaolab.github.io/tag/slam/index.xml" rel="self" type="application/rss+xml" />
+    <description>SLAM</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yantaolab.github.io/media/logo_hu7225832d305736d33d1ee86989ca8ec6_178698_300x300_fit_lanczos_3.png</url>
-      <title>Low light enhancement</title>
-      <link>https://yantaolab.github.io/tag/low-light-enhancement/</link>
+      <title>SLAM</title>
+      <link>https://yantaolab.github.io/tag/slam/</link>
     </image>
     
     <item>
@@ -17,15 +17,6 @@
       <link>https://yantaolab.github.io/project/vslamdataset/</link>
       <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://yantaolab.github.io/project/vslamdataset/</guid>
-      <description>&lt;p&gt;Construction in the low-light environment is widely conducted in many construction projects, such as nighttime road construction and tunnel construction. Workers are also exposed to higher risks at low light due to dazzling lights and fatigable low-light environments. Estimating human pose can help assess workload and reduce the risk of fatigue and injury in low light. However, the existing method cannot accurately identify the Workers&amp;rsquo; pose in the low light environment. As a result, this paper proposes an Unsupervised Illumination Reflectance Estimation Network (UIRE-Net) framework for estimating Workers&amp;rsquo; poses in low light. The image restoration method is based on the Retinex theory, in which objects&amp;rsquo; true color is determined solely by illumination reflectance. To begin, the Retinex method recovers the information from low-light images. The Workers&amp;rsquo; pose estimation module is then used to track the worker&amp;rsquo;s pose. The proposed method&amp;rsquo;s pose estimation performance is evaluated using 200 low-light construction images and over 1000 Workers&amp;rsquo; pose estimation experiments. The results show that UIRE-Net has a recognition rate of 77.9%. In the low-light construction scenario, the proposed method outperforms the baseline method by 17.8%. To improve productivity and safety performance, UIRE-Net can estimate Workers&amp;rsquo; pose in low light and assist in completing automatic monitoring tasks in low-light construction.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Vision-based low-light construction workers&#39; pose analysis</title>
-      <link>https://yantaolab.github.io/project/lowlight/</link>
-      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://yantaolab.github.io/project/lowlight/</guid>
       <description>&lt;p&gt;Construction in the low-light environment is widely conducted in many construction projects, such as nighttime road construction and tunnel construction. Workers are also exposed to higher risks at low light due to dazzling lights and fatigable low-light environments. Estimating human pose can help assess workload and reduce the risk of fatigue and injury in low light. However, the existing method cannot accurately identify the Workers&amp;rsquo; pose in the low light environment. As a result, this paper proposes an Unsupervised Illumination Reflectance Estimation Network (UIRE-Net) framework for estimating Workers&amp;rsquo; poses in low light. The image restoration method is based on the Retinex theory, in which objects&amp;rsquo; true color is determined solely by illumination reflectance. To begin, the Retinex method recovers the information from low-light images. The Workers&amp;rsquo; pose estimation module is then used to track the worker&amp;rsquo;s pose. The proposed method&amp;rsquo;s pose estimation performance is evaluated using 200 low-light construction images and over 1000 Workers&amp;rsquo; pose estimation experiments. The results show that UIRE-Net has a recognition rate of 77.9%. In the low-light construction scenario, the proposed method outperforms the baseline method by 17.8%. To improve productivity and safety performance, UIRE-Net can estimate Workers&amp;rsquo; pose in low light and assist in completing automatic monitoring tasks in low-light construction.&lt;/p&gt;
 </description>
     </item>

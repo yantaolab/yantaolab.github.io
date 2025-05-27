@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AEI | HCIC Lab</title>
+    <link>https://yantaolab.github.io/tag/aei/</link>
+      <atom:link href="https://yantaolab.github.io/tag/aei/index.xml" rel="self" type="application/rss+xml" />
+    <description>AEI</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yantaolab.github.io/media/logo_hu7225832d305736d33d1ee86989ca8ec6_178698_300x300_fit_lanczos_3.png</url>
+      <title>AEI</title>
+      <link>https://yantaolab.github.io/tag/aei/</link>
+    </image>
+    
+    <item>
+      <title>May, 2025. Our paper has been accepted by Advanced Engineering Informatics. Congratulations to XINYU!</title>
+      <link>https://yantaolab.github.io/post/05_2025_xiniyu_aei/</link>
+      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://yantaolab.github.io/post/05_2025_xiniyu_aei/</guid>
+      <description>&lt;p&gt;Ergonomic risk assessments have been increasingly adopted in construction projects to protect worker health, prevent accidents, and organize production schedules. Vision-based ergonomic risk assessment methods are widely applied in construction scenarios due to their cost-effectiveness and non-invasive. On low-light construction sites, such as tunnels and nighttime road construction, the risk of physical fatigue and accidents is further increased due to inadequate illumination and visibility. However, images captured in low-light construction sites suffer from low brightness, low signal-to-noise ratios, and colour distortion, resulting in the loss of worker information. These challenges make it difficult for vision-based ergonomic assessment methods to extract worker features, leading to assessment errors. Although existing image enhancement methods can improve brightness, many methods require manual parameter adjustments or paired datasets for model training. Moreover, these methods focus on restoring brightness rather than worker pose information. To overcome these limitations, we propose an Unsupervised Low-light Worker Ergonomics assessment Network (ULL-WEAS) to evaluate ergonomic risks under low-light construction sites. ULL-WEAS uses deep neural networks to effectively decompose the brightness of low-light images and recover brightness and worker information in an unsupervised way, enhancing the accuracy of worker pose estimation and ergonomic risk assessment. Compared to existing methods, ULL-WEAS has increased worker pose estimation results by 18.3% and the accuracy of risk assessment increased to 87.67% on the low-light construction worker dataset. ULL-WEAS can be integrated with existing monitoring systems to provide more robust health and risk management services for construction workers in low-light conditions.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
